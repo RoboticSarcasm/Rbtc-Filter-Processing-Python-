@@ -1,0 +1,6 @@
+{
+  "name": "RBTC image filter [Processing, python]",
+  "tagline": "A small and basic glitch-art filter I made as an exercise to learn a bit more Python! Use as you wish!",
+  "body": "This is a program that filters the provided image in a style similar to glitch-art using the Python version of Processing (http://py.processing.org/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
